@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+} 
+
+h1{
+    text-align: center; 
+    size: 3rem; 
+}
+
+p{ 
+   text-align: center;
+   size: 2rem; 
+}

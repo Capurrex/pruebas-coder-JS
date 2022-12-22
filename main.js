@@ -1,0 +1,5 @@
+console.log ("escibi en la consola en JS, soy todo un pro XD")
+let userName = prompt ("pone tu nombre")
+alert (`Hola ${userName} ,te pusimos un nuevo nombre`)
+alert ("mamadera")
+alert ("hola mamadera!")
